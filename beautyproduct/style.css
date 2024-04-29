@@ -1,0 +1,230 @@
+body{
+    background-image: url(back2.jpg);
+    background-size: 100% 800px;
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+}
+/*start home pagenav coding*/
+nav{
+    width: 100%;
+    height: 260px;
+    box-sizing: border-box;
+    background-color: rgba(0,0,0, 0.6);
+    float: left;
+    padding: 30px;
+}
+#welcome{
+    text-align: center;
+    font-size: 80px;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+#menu{
+    width: 750px;
+    height: 70px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    
+}
+#menu_item{
+    width: 20%;
+    height: 70px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    box-sizing: border-box;
+    text-align: center;
+    
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 21px;
+    font-family: sans-serif;
+}
+/*End  home page nav coding*/
+
+/*start home page  section coding*/
+#index-section{
+    width: 700px;
+    height: 407px;
+    float: right;
+    box-sizing: border-box;
+    background: url(Image.png);
+}
+#logo{
+    width: 180px;
+    height: 180px;
+    box-sizing: border-box;
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+#logo_text{
+    margin: 0;
+    padding: 0;
+    font-family: vardana;
+    color: white;
+    font-size: 160px;
+}
+#domain{
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: vardana;
+    margin-left: 150px;
+}
+/*end  home page  section coding*/
+
+/*start login page nav coding*/
+#domain_name{
+    padding: 0;
+    margin: 0px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 60px;
+
+}
+
+/*end login page nav coding*/
+
+/*start login page section coding*/
+fieldset{
+    width: 380px;
+    height: 260px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    margin-left: 180px;
+    padding: 25px;
+}
+#login_section{
+    width: 700px;
+    height: 407px;
+    float: right;
+    box-sizing: border-box;
+    background: url(Image.png);
+    padding: 40px;
+
+}
+legend{
+     font-family: century gothic;
+     color: white;
+     font-size: 30px;
+     font-weight: bold;
+
+}
+#login_form{
+    font-family: century gothic;
+    color: white;
+    font-size: 22px;
+
+}
+#username{
+    width: 100%;
+    height: 30px;
+    background-color: inherit;
+    border: none;
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+    margin-top: 10px;
+    color: white;
+    font-size: 17px;
+    margin-bottom: 20px;
+
+
+
+}
+#password{
+    width: 100%;
+    height: 30px;
+    background-color: inherit;
+    border: none;
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+    margin-top: 10px;
+    color: white;
+    font-size: 17px;
+
+}
+#login_btn{
+    width: 130px;
+    height: 40px;
+    float: right;
+    margin-top: 25px;
+    background-color: inherit;
+    border: none;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    font-family: century gothic;
+    font-size: 18px;
+
+
+
+
+}
+
+/*end login page section coding*/
+
+/*start contact page section coding*/
+#contact{
+    font-size: 20px;
+    color: white;
+    font-style: normal;
+    font-family: century gothic;
+    line-height: 40px;
+}
+#contact-section{
+    width: 700px;
+    height: 407px;
+    float: right;
+    box-sizing: border-box;
+    background: url(Image.png);
+    padding: 40px;
+
+}
+/*end contact page section coding*/
+/*start Products page section coding*/
+#product-section{
+    width: 100%;
+    height: 1800px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+    float: left;
+    box-sizing: border-box;
+
+}
+#brands{
+    width: 100%;
+    height: 500px;
+    background-color: rgba(255,255,255,0.8);
+    float: left;
+    box-sizing: border-box;
+
+}
+#brand{
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    float: left;
+
+}
+
+
+/*end Products page section coding*/
+
+
+
